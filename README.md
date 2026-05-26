@@ -8,7 +8,7 @@ This repository contains Python projects and practice programs created during my
 - Functions
 - Loops
 - Pandas
-- Numpay
+- Numpy
 - File Handling
 - Mini Projects
 
